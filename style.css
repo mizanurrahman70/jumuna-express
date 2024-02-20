@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.railway-font{
+    font-family: "Raleway", sans-serif;
+}
+.bus{
+    border: 1px solid rgba(29, 209, 0, 0.40);
+
+
+}
+.banner{
+    background-image: url(./images/banner.png);
+}
+li{
+    margin-bottom: 20px;
+}
+.serial p{
+    margin-bottom: 20px; 
+}
